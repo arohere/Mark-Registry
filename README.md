@@ -1,7 +1,3 @@
-Certainly! Here’s a user manual for your Python program that outlines how to interact with the application and perform various operations.
-
----
-
 # **User Manual for Mark Registry Application**
 
 ## **Introduction**
