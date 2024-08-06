@@ -1,4 +1,4 @@
-![15](https://github.com/user-attachments/assets/41270da4-32b2-4a73-809a-9cf138c6b1ea)# **User Manual for Mark Registry Application**
+# **User Manual for Mark Registry Application**
 
 ## **Introduction**
 
