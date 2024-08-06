@@ -1,8 +1,8 @@
-# **User Manual for Mark Registry Application**
+# **Mark Registry**
 
 ## **Introduction**
 
-The Mark Registry Application is a GUI-based tool for managing student records and subjects in a MySQL database. This manual provides guidance on how to use the application to add, remove, and edit subjects and students.
+The Mark Registry Application is a Python-based tool designed for managing student and subject records within a MySQL database. It provides a graphical user interface (GUI) through PySimpleGUI, allowing users to add, remove, and edit subjects and students. The application supports functionalities such as adding new subjects and students, removing existing ones, and editing class details. Users can customize the interface theme and interact with the database through simple form submissions and selections. The application also includes error handling and configuration management features to ensure smooth operation and user experience.
 
 ## **Getting Started**
 
