@@ -1,4 +1,4 @@
-# **User Manual for Mark Registry Application**
+![15](https://github.com/user-attachments/assets/41270da4-32b2-4a73-809a-9cf138c6b1ea)# **User Manual for Mark Registry Application**
 
 ## **Introduction**
 
@@ -34,7 +34,7 @@ The Mark Registry Application is a GUI-based tool for managing student records a
 ## **Using the Application**
 
 ### **Login**
-
+![Login](Images/0.png)
 1. **Login Window**
    - On startup, the application will display a login window.
    - Enter your MySQL username, host, and password.
@@ -43,22 +43,37 @@ The Mark Registry Application is a GUI-based tool for managing student records a
 
 ### **Main Menu**
 
+If it's your first time logging in, then you'll be greeted with this screen 
+<br>
+![Start Page](Images/1.png)
+<br>
+Start by adding a class.
+
+
 After logging in, the main menu will appear, allowing you to select or manage classes.
 
+![First Page](Images/2.png)
+
 1. **Add Class**
-   - Adds a new class to the system. You will be prompted to provide details.
+   - Adds a new class to the system. You will be prompted to provide details. <br>
+   ![Add Class](Images/14.png)
 
 2. **Delete Class**
-   - Removes an existing class from the system. You will select the class to be deleted.
+   - Removes an existing class from the system. You will select the class to be deleted. <br>
+   ![Delete Class](Images/15.png)
 
 3. **Use Class**
-   - Selects a class for editing or viewing. You can choose from the list of available classes.
+   - Selects a class for editing or viewing. You can choose from the list of available classes. <br>
+   ![Use Class](Images/8.png)
 
 4. **Edit Class**
-   - Modify details of an existing class.
+   - Modify details of an existing class. <br>
+   ![Edit Class](Images/4.png)
 
 5. **Change Theme**
-   - Allows you to change the visual theme of the application.
+   - Allows you to change the visual theme of the application. <br>
+   ![Edit Class](Images/12.png)
+   
 
 ### **Managing Classes**
 
@@ -67,7 +82,9 @@ When you select a class, you can manage subjects and students within that class.
 #### **Add Subjects**
 
 1. **Open Add Subjects Window**
-   - Click **"Add Subjects"** from the class management menu.
+   - Click **"Add Subjects"** from the class management menu. <br>
+   ![5](https://github.com/user-attachments/assets/94062998-3ff3-40a3-80f2-f516d1453d89)
+
 
 2. **Add New Subjects**
    - Enter the name of the subject and click **"Add Subject"**.
@@ -78,7 +95,9 @@ When you select a class, you can manage subjects and students within that class.
 #### **Add Students**
 
 1. **Open Add Students Window**
-   - Click **"Add Students"** from the class management menu.
+   - Click **"Add Students"** from the class management menu. <br>
+   ![6](https://github.com/user-attachments/assets/4e518da9-fc68-495d-9d68-8814aafb2b17)
+
 
 2. **Add New Students**
    - Enter the student’s name and click **"Add Student"**.
@@ -89,7 +108,9 @@ When you select a class, you can manage subjects and students within that class.
 #### **Remove Subjects**
 
 1. **Open Remove Subjects Window**
-   - Click **"Remove Subjects"** from the class management menu.
+   - Click **"Remove Subjects"** from the class management menu. <br>
+   ![image](https://github.com/user-attachments/assets/fa7dc75a-fc77-44b3-8582-d645e73aabc2)
+
 
 2. **Select Subjects to Remove**
    - Check the boxes next to the subjects you want to remove.
@@ -99,7 +120,9 @@ When you select a class, you can manage subjects and students within that class.
 #### **Remove Students**
 
 1. **Open Remove Students Window**
-   - Click **"Remove Students"** from the class management menu.
+   - Click **"Remove Students"** from the class management menu. <br>
+   ![image](https://github.com/user-attachments/assets/864548fe-9145-4eb2-b60a-1fc6f1fc4c40)
+
 
 2. **Select Students to Remove**
    - Check the boxes next to the students you want to remove.
